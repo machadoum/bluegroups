@@ -1,0 +1,11 @@
+MIDlet-1: Chat,,chat.Chat
+MIDlet-2: Velha,,velha.VelhaMidlet
+MIDlet-3: Cliente SuperMercado,,supermercado.Cliente
+MIDlet-4: Servidor SuperMercado,,supermercado.Servidor
+MIDlet-Jar-Size: 127878
+MIDlet-Jar-URL: bluegroups.jar
+MIDlet-Name: bluegroups
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
